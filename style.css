@@ -19,6 +19,9 @@ h1 {
   font-weight: 900;
 }
 
+section {
+  margin: 10vh auto;
+}
 
 #ops {
   width: 50%;
