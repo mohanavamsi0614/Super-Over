@@ -2,7 +2,7 @@ const strikeButton = document.getElementById("strike");
 const resetButton = document.getElementById("reset");
 const $team1Score = document.getElementById("st1");
 const $team1Wickets = document.getElementById("wt1");
-const $team2Score = document.getElementById("score-team2");
+const $team2Score = document.getElementById("st2");
 const $team2Wickets = document.getElementById("wt2");
 
 const strikeAudio = new Audio("http://bit.ly/so-ball-hit");
